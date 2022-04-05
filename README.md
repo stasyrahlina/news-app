@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Description
 
 This application is designed to work with the service [NewsAPI](https://newsapi.org/). On the Home page, you can see a list of top news. By clicking on the news you are interested in, you will see the details.
 
